@@ -1,0 +1,9 @@
+/*
+Custom Css
+*/
+p{color: black !important;}
+h1{color: red;}
+section.bg-resume {background-image: url("daytime-tokyo-japan-4k-n2qo7awpt071c0m8.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;}
+  body > section.bg-resume.py-5 > div > div > div.col-md-6.text-white.bg-light > img {border-radius:10px !important;}
